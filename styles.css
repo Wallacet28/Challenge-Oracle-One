@@ -1,0 +1,48 @@
+body {
+    background-color: #f2f2f2; 
+  }
+  h1 {
+    color: rgb(11, 89, 20);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: blue; 
+  }
+  
+  #outputText {
+    float: right; 
+    
+   
+  }
+  
+  #inputText {
+    float: left; 
+  }
+  
+  button {
+    background-color: blue; 
+    color: white; 
+    margin-top: 450px;
+    margin-left: 90px;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: rgb(24, 24, 179); 
+  }
+  
+  button:active {
+    background-color: rgb(41, 140, 240); 
+  }
+  
